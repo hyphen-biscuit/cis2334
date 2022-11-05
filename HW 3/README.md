@@ -1,0 +1,1 @@
+Hi, this is my Homework #3. Not sure what else to say, but here's a readme! My least favorite thing about github is that the READMEs are typically formatted in this custom format and usually do not have text file alternatives, but this is a small nitpick of a lovely system.
