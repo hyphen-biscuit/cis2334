@@ -1,0 +1,9 @@
+#Dashiell Wendt 2033998
+
+inp = input()
+words = inp.split()
+wordEmpty = []
+for wordIndex in words:
+    wordEmpty.append(str(wordIndex))
+for pos, val in enumerate(wordEmpty):
+    print('{} {}'.format(val, wordEmpty.count(wordEmpty[pos])))

@@ -1,0 +1,6 @@
+#Dashiell Wendt 2033998
+
+inp = input()
+my_list = sorted([int(i) for i in inp.split() if int(i) >= 0])
+for value in my_list:
+  print(value, end = ' ')
